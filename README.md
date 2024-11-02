@@ -2,7 +2,7 @@
 
 making sound
 
-syntha nd synthdef
+synth nd synthdef
 
 envelopes and doneAction
 
@@ -33,7 +33,7 @@ MIDI 2
 
 arduino
 
-microphones and soundin
+microphones and sound
 
 FM synthesis - 1
 FM synthesis - 2
@@ -55,4 +55,6 @@ Ambisonics
 
 
 
+shortcuts : 
 
+ctrl + shift + d : documentation search
